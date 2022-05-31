@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.data {
+  margin-block: 20px;
+  text-align: center;
+}
+.data img {
+  width: 80%;
+  max-width: 500px;
+  min-width: 280px;
+}
+.data p {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+.header img {
+  width: 60px;
+}
